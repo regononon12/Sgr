@@ -224,3 +224,8 @@ ul {
     width: 150px;
     padding: 0;
 }
+
+.footer-menu {
+    display: flex;
+    flex-direction: column;
+}
